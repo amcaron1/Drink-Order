@@ -1,8 +1,20 @@
 # Drink Order
 
-Full-stack application with the intention of helping bar managers quickly and accurately price out drinks when creating new cocktail menus. 
+## Description
+A React/Mongo application that allows bartenders to store ingredients & their costs, to create drink recipes containing those ingredients, and to calculate the price markup.
 
-## [Deployed Link](https://drink-order.herokuapp.com/)
+## [Deployed Code](https://drink-order.herokuapp.com/)
+
+## [GitHub Respository](https://github.com/amcaron1/Drink-Order)
+
+## Built With
+
+* [MongoDB](https://www.mongodb.com/) - NoSQL Database
+* [Express.js](https://expressjs.com/) - Node.js framework
+* [React.js](https://reactjs.org/) - MVC front-end framework 
+* [Node.js](https://nodejs.org/en/) - Asynchronous event driven JavaScript runtime
+* [Yarn](https://yarnpkg.com/en/) - Dependency management
+* [Materialize](https://materializecss.com/) - CSS framework
 
 ## Getting Started
 
@@ -47,20 +59,6 @@ You will then be able to start the app locally by runnning:
 ````
 $ yarn start
 ````
-
-### Using
-
-[Demo](link to demo)
-
-## Built With
-
-* [MongoDB](https://www.mongodb.com/) - NoSQL Database
-* [Express.js](https://expressjs.com/) - Node.js framework
-* [React.js](https://reactjs.org/) - MVC front-end framework 
-* [Node.js](https://nodejs.org/en/) - Asynchronous event driven JavaScript runtime
-* [Yarn](https://yarnpkg.com/en/) - Dependency management
-* [Materialize](https://materializecss.com/) - CSS framework
-
 ## Authors
 
 See the list of [contributors](https://github.com/jckmrrssy/Drink-Order/graphs/contributors) who participated in this project along with individual commit history. 
